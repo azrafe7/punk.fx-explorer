@@ -1,0 +1,17 @@
+# Excluded Folders
+obj/
+bin/
+src/com/
+src/net/
+src/fmpp_includes/
+src/punk/
+
+# Excluded Files
+*.log
+*.tdd
+*.ax
+*.orig
+*.inc
+build.xml
+*PadPreview*.*
+src/assets/pf*.*
